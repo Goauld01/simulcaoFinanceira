@@ -122,7 +122,7 @@ const investimentoInicial = 3000; // Valor inicial investido
 const taxaMensal = 1.3; // Taxa de rendimento mensal em %
 const meses = 12; // Duração do investimento
 const metaInvestimento = 5000; // Meta para o saldo final do investimento
-const metaOrcamento = 5000; // Meta de orçamento mensal
+const metaOrcamento = 2000; // Meta de orçamento mensal
 
 // Requisito 7: Execução do Relatório
 
